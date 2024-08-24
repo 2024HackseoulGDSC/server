@@ -483,26 +483,26 @@ const reviewers = {
 //4. 샘플 데이터 (네 번째 페이지용)
 const posts = {
   Reviewer1: {
-    profile: "https://example.com/reviewer1-profile.jpg",
-    reviewer: "Reviewer1",
+    profile: "https://raw.githubusercontent.com/Jyoonly/my-images/main/profile1.jpg",
+    reviewer: "Makeup Eunbi",
     introduction: "Loves fashion and lifestyle.",
-    video: "url",
+    video: "https://www.youtube.com/watch?v=nLIYL661C9I", //유튜브 링크 그대로 삽입
     carts: [
       {
-        image: "",
-        productUrl: "",
+        image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/1-1.jpg",
+        productUrl: "https://www.coupang.com/vp/products/6530288800?itemId=14501277258&vendorItemId=4007901946",
       },
       {
-        image: "",
-        productUrl: "",
+        image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/1-2.jpg",
+        productUrl: "https://www.coupang.com/vp/products/8112731313?itemId=22991538234&vendorItemId=81459666781",
       },
       {
-        image: "",
-        productUrl: "",
+        image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/1-3.jpg",
+        productUrl: "https://www.coupang.com/vp/products/336407680?itemId=1073054371&vendorItemId=5565028454",
       },
       {
-        image: "",
-        productUrl: "",
+        image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/1-4.jpg",
+        productUrl: "https://www.coupang.com/vp/products/1758098717?itemId=10631974055&vendorItemId=90028130203",
       },
   ],
   },
@@ -510,23 +510,22 @@ const posts = {
     profile: "https://example.com/reviewer2-profile.jpg",
     reviewer: "Reviewer2",
     introduction: "Gadget enthusiast.",
-    video: "url",
+    video: "https://www.youtube.com/watch?v=nLIYL661C9I",
     carts: [
       {
-        image: "",
-        productUrl: "",
+        image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/1-1.jpg",
+        productUrl: "https://www.coupang.com/vp/products/6530288800?itemId=14501277258&vendorItemId=4007901946",
       },
       {
-        image: "",
-        productUrl: "",
+        image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/1-2.jpg",
+        productUrl: "https://www.coupang.com/vp/products/8112731313?itemId=22991538234&vendorItemId=81459666781",
       },
       {
-        image: "",
-        productUrl: "",
+        image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/1-3.jpg",            productUrl: "https://www.coupang.com/vp/products/336407680?itemId=1073054371&vendorItemId=5565028454",
       },
       {
-        image: "",
-        productUrl: "",
+        image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/1-4.jpg",
+        productUrl: "https://www.coupang.com/vp/products/1758098717?itemId=10631974055&vendorItemId=90028130203",
       },
   ],
   }
