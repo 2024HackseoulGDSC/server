@@ -13,16 +13,16 @@ const mainPageData = {
   AdBanner: "https://example.com/ad-banner.jpg",  // 광고 배너 이미지 URL
   recommendations: [
     {
-      image: "",
-      productUrl: "",
+      image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/main1.jpg",
+      productUrl: "https://www.coupang.com/vp/products/8054709864",
     },
     {
-      image: "",
-      productUrl: "",
+      image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/main2.jpg",
+      productUrl: "https://www.coupang.com/vp/products/7344992433",
     },
     {
-      image: "",
-      productUrl: "",
+      image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/main3.jpg",
+      productUrl: "https://www.coupang.com/vp/products/7830616996",
     },
   ],
   reviewers: [
@@ -58,16 +58,16 @@ const beautyPageData = {
   AdBanner: "https://example.com/ad-banner.jpg",  // 광고 배너 이미지 URL
   recommendations: [
     {
-      image: "",
-      productUrl: "",
+      image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/beauty1.jpg",
+      productUrl: "https://www.coupang.com/vp/products/8122953264",
     },
     {
-      image: "",
-      productUrl: "",
+      image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/beauty2.jpg",
+      productUrl: "https://www.coupang.com/vp/products/5455902399",
     },
     {
-      image: "",
-      productUrl: "",
+      image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/beauty3.jpg",
+      productUrl: "https://www.coupang.com/vp/products/5099733866",
     },
   ],
   reviewers: [
@@ -103,16 +103,16 @@ const fashionPageData = {
   AdBanner: "https://example.com/ad-banner.jpg",  // 광고 배너 이미지 URL
   recommendations: [
     {
-      image: "",
-      productUrl: "",
+      image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/fashion1.jpg",
+      productUrl: "https://www.coupang.com/vp/products/7319912616",
     },
     {
-      image: "",
-      productUrl: "",
+      image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/fashion2.png",
+      productUrl: "https://www.coupang.com/vp/products/7951362526",
     },
     {
-      image: "",
-      productUrl: "",
+      image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/fashion3.jpg",
+      productUrl: "https://www.coupang.com/vp/products/7590749265",
     },
   ],
   reviewers: [
@@ -148,16 +148,16 @@ const stationaryPageData = {
   AdBanner: "https://example.com/ad-banner.jpg",  // 광고 배너 이미지 URL
   recommendations: [
     {
-      image: "",
-      productUrl: "",
+      image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/stationary1.jpg",
+      productUrl: "https://www.coupang.com/vp/products/6855901626",
     },
     {
-      image: "",
-      productUrl: "",
+      image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/stationary2.jpg",
+      productUrl: "https://www.coupang.com/vp/products/6553346783",
     },
     {
-      image: "",
-      productUrl: "",
+      image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/stationary3.png",
+      productUrl: "https://www.coupang.com/vp/products/7396102229",
     },
   ],
   reviewers: [
@@ -193,16 +193,16 @@ const electronicsPageData = {
   AdBanner: "https://example.com/ad-banner.jpg",  // 광고 배너 이미지 URL
   recommendations: [
     {
-      image: "",
-      productUrl: "",
+      image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/electronics1.jpg",
+      productUrl: "https://www.coupang.com/vp/products/8134826720",
     },
     {
-      image: "",
-      productUrl: "",
+      image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/electronics2.jpg",
+      productUrl: "https://www.coupang.com/vp/products/7655755838",
     },
     {
-      image: "",
-      productUrl: "",
+      image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/electronics3.jpg",
+      productUrl: "https://www.coupang.com/vp/products/6764000977",
     },
   ],
   reviewers: [
@@ -238,16 +238,16 @@ const livingsPageData = {
   AdBanner: "https://example.com/ad-banner.jpg",  // 광고 배너 이미지 URL
   recommendations: [
     {
-      image: "",
-      productUrl: "",
+      image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/livings1.jpg",
+      productUrl: "https://www.coupang.com/vp/products/7730205162",
     },
     {
-      image: "",
-      productUrl: "",
+      image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/livings2.jpg",
+      productUrl: "https://www.coupang.com/vp/products/7458327454",
     },
     {
-      image: "",
-      productUrl: "",
+      image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/livings3.jpg",
+      productUrl: "https://www.coupang.com/vp/products/1514118803",
     },
   ],
   reviewers: [
@@ -283,16 +283,16 @@ const foodsPageData = {
   AdBanner: "https://example.com/ad-banner.jpg",  // 광고 배너 이미지 URL
   recommendations: [
     {
-      image: "",
-      productUrl: "",
+      image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/foods1.jpg",
+      productUrl: "https://www.coupang.com/vp/products/218520566",
     },
     {
-      image: "",
-      productUrl: "",
+      image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/foods2.jpg",
+      productUrl: "https://www.coupang.com/vp/products/7107434987",
     },
     {
-      image: "",
-      productUrl: "",
+      image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/foods3.jpg",
+      productUrl: "https://www.coupang.com/vp/products/1342896754",
     },
   ],
   reviewers: [
