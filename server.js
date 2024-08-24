@@ -47,6 +47,234 @@ const mainPageData = {
   ]
 };
 
+const beautyPageData = {
+  AdBanner: "https://example.com/ad-banner.jpg",  // 광고 배너 이미지 URL
+  recommendations: [
+    "Product 1",
+    "Product 2",
+    "Product 3",
+    "Product 4",
+    "Product 5"
+  ],
+  reviewers: [
+    {
+      profile: "https://example.com/profile1.jpg",
+      reviewer: "Reviewer1",
+      introduction: "Fashion enthusiast"
+    },
+    {
+      profile: "https://example.com/profile2.jpg",
+      reviewer: "Reviewer2",
+      introduction: "Tech guru"
+    },
+    {
+      profile: "https://example.com/profile3.jpg",
+      reviewer: "Reviewer3",
+      introduction: "Beauty expert"
+    },
+    {
+      profile: "https://example.com/profile4.jpg",
+      reviewer: "Reviewer4",
+      introduction: "Food lover"
+    },
+    {
+      profile: "https://example.com/profile5.jpg",
+      reviewer: "Reviewer5",
+      introduction: "Gadget reviewer"
+    }
+  ]
+};
+
+const fashionPageData = {
+  AdBanner: "https://example.com/ad-banner.jpg",  // 광고 배너 이미지 URL
+  recommendations: [
+    "Product 1",
+    "Product 2",
+    "Product 3",
+    "Product 4",
+    "Product 5"
+  ],
+  reviewers: [
+    {
+      profile: "https://example.com/profile1.jpg",
+      reviewer: "Reviewer1",
+      introduction: "Fashion enthusiast"
+    },
+    {
+      profile: "https://example.com/profile2.jpg",
+      reviewer: "Reviewer2",
+      introduction: "Tech guru"
+    },
+    {
+      profile: "https://example.com/profile3.jpg",
+      reviewer: "Reviewer3",
+      introduction: "Beauty expert"
+    },
+    {
+      profile: "https://example.com/profile4.jpg",
+      reviewer: "Reviewer4",
+      introduction: "Food lover"
+    },
+    {
+      profile: "https://example.com/profile5.jpg",
+      reviewer: "Reviewer5",
+      introduction: "Gadget reviewer"
+    }
+  ]
+};
+
+const stationaryPageData = {
+  AdBanner: "https://example.com/ad-banner.jpg",  // 광고 배너 이미지 URL
+  recommendations: [
+    "Product 1",
+    "Product 2",
+    "Product 3",
+    "Product 4",
+    "Product 5"
+  ],
+  reviewers: [
+    {
+      profile: "https://example.com/profile1.jpg",
+      reviewer: "Reviewer1",
+      introduction: "Fashion enthusiast"
+    },
+    {
+      profile: "https://example.com/profile2.jpg",
+      reviewer: "Reviewer2",
+      introduction: "Tech guru"
+    },
+    {
+      profile: "https://example.com/profile3.jpg",
+      reviewer: "Reviewer3",
+      introduction: "Beauty expert"
+    },
+    {
+      profile: "https://example.com/profile4.jpg",
+      reviewer: "Reviewer4",
+      introduction: "Food lover"
+    },
+    {
+      profile: "https://example.com/profile5.jpg",
+      reviewer: "Reviewer5",
+      introduction: "Gadget reviewer"
+    }
+  ]
+};
+
+const electronicsPageData = {
+  AdBanner: "https://example.com/ad-banner.jpg",  // 광고 배너 이미지 URL
+  recommendations: [
+    "Product 1",
+    "Product 2",
+    "Product 3",
+    "Product 4",
+    "Product 5"
+  ],
+  reviewers: [
+    {
+      profile: "https://example.com/profile1.jpg",
+      reviewer: "Reviewer1",
+      introduction: "Fashion enthusiast"
+    },
+    {
+      profile: "https://example.com/profile2.jpg",
+      reviewer: "Reviewer2",
+      introduction: "Tech guru"
+    },
+    {
+      profile: "https://example.com/profile3.jpg",
+      reviewer: "Reviewer3",
+      introduction: "Beauty expert"
+    },
+    {
+      profile: "https://example.com/profile4.jpg",
+      reviewer: "Reviewer4",
+      introduction: "Food lover"
+    },
+    {
+      profile: "https://example.com/profile5.jpg",
+      reviewer: "Reviewer5",
+      introduction: "Gadget reviewer"
+    }
+  ]
+};
+
+const livingsPageData = {
+  AdBanner: "https://example.com/ad-banner.jpg",  // 광고 배너 이미지 URL
+  recommendations: [
+    "Product 1",
+    "Product 2",
+    "Product 3",
+    "Product 4",
+    "Product 5"
+  ],
+  reviewers: [
+    {
+      profile: "https://example.com/profile1.jpg",
+      reviewer: "Reviewer1",
+      introduction: "Fashion enthusiast"
+    },
+    {
+      profile: "https://example.com/profile2.jpg",
+      reviewer: "Reviewer2",
+      introduction: "Tech guru"
+    },
+    {
+      profile: "https://example.com/profile3.jpg",
+      reviewer: "Reviewer3",
+      introduction: "Beauty expert"
+    },
+    {
+      profile: "https://example.com/profile4.jpg",
+      reviewer: "Reviewer4",
+      introduction: "Food lover"
+    },
+    {
+      profile: "https://example.com/profile5.jpg",
+      reviewer: "Reviewer5",
+      introduction: "Gadget reviewer"
+    }
+  ]
+};
+
+const foodsPageData = {
+  AdBanner: "https://example.com/ad-banner.jpg",  // 광고 배너 이미지 URL
+  recommendations: [
+    "Product 1",
+    "Product 2",
+    "Product 3",
+    "Product 4",
+    "Product 5"
+  ],
+  reviewers: [
+    {
+      profile: "https://example.com/profile1.jpg",
+      reviewer: "Reviewer1",
+      introduction: "Fashion enthusiast"
+    },
+    {
+      profile: "https://example.com/profile2.jpg",
+      reviewer: "Reviewer2",
+      introduction: "Tech guru"
+    },
+    {
+      profile: "https://example.com/profile3.jpg",
+      reviewer: "Reviewer3",
+      introduction: "Beauty expert"
+    },
+    {
+      profile: "https://example.com/profile4.jpg",
+      reviewer: "Reviewer4",
+      introduction: "Food lover"
+    },
+    {
+      profile: "https://example.com/profile5.jpg",
+      reviewer: "Reviewer5",
+      introduction: "Gadget reviewer"
+    }
+  ]
+};
+
 // 2. 
 const myPageData = {
     profile: "https://example.com/my-profile.jpg",  // 내 프로필 사진
@@ -82,7 +310,7 @@ const myPageData = {
     ]  // 내가 이전에 쓴 글 제목들
   };
   
-//3. 샘플 데이터 (세 번째, 네 번째 페이지용)
+//3. 샘플 데이터 (세 번째 페이지용)
 const reviewers = {
     Reviewer1: {
       profile: "https://example.com/reviewer1-profile.jpg",
@@ -103,6 +331,24 @@ const reviewers = {
     // 추가 리뷰어들에 대한 데이터도 여기에 포함될 수 있음
   };
 
+//4. 샘플 데이터 (네 번째 페이지용)
+const posts = {
+  Reviewer1: {
+    profile: "https://example.com/reviewer1-profile.jpg",
+    reviewer: "Reviewer1",
+    introduction: "Loves fashion and lifestyle.",
+    video: "url",
+    carts: ["url1", "url2", "url3"],
+  },
+  Reviewer2: {
+    profile: "https://example.com/reviewer2-profile.jpg",
+    reviewer: "Reviewer2",
+    introduction: "Gadget enthusiast.",
+    video: "url",
+    carts: ["url1", "url2", "url3"],
+  }
+  // 추가 리뷰어들에 대한 데이터도 여기에 포함될 수 있음
+};
   
 
 // API 엔드포인트
@@ -115,8 +361,32 @@ app.listen(PORT, () => {
 
 
 // 1. 첫 번째 페이지 데이터 가져오기
-app.get('/whatsinmycart', (req, res) => {
+app.get('/whatsinmycart/landing', (req, res) => {
   res.json(mainPageData);
+});
+
+app.get('/whatsinmycart/beauty', (req, res) => {
+  res.json(beautyPageData);
+});
+
+app.get('/whatsinmycart/fashion', (req, res) => {
+  res.json(fashionPageData);
+});
+
+app.get('/whatsinmycart/stationary', (req, res) => {
+  res.json(stationaryPageData);
+});
+
+app.get('/whatsinmycart/electronics', (req, res) => {
+  res.json(electronicsPageData);
+});
+
+app.get('/whatsinmycart/livings', (req, res) => {
+  res.json(livingsPageData);
+});
+
+app.get('/whatsinmycart/foods', (req, res) => {
+  res.json(foodsPageData);
 });
 
 // 2. 마이페이지 데이터 가져오기
@@ -127,7 +397,7 @@ app.get('/whatsinmycart/mycart', (req, res) => {
   });
   
 
-// 3. 특정 리뷰어의 페이지 데이터 가져오기 (세 번째 페이지)
+// 3. 특정 리뷰어의 페이지 데이터(남의 페이지) 가져오기 (세 번째 페이지)
 app.get('/whatsinmycart/cart/:reviewerName', (req, res) => {
     const reviewerName = req.params.reviewerName;
     
@@ -141,11 +411,11 @@ app.get('/whatsinmycart/cart/:reviewerName', (req, res) => {
   });
 
   
-// 4. 특정 리뷰어의 상세 페이지 데이터 가져오기 (네 번째 페이지)
-app.get('/api/reviewer/:reviewerName/details', (req, res) => { //링크 고쳐야됨
+// 4. 특정 리뷰어의 상세 페이지 데이터(남의 글) 가져오기 (네 번째 페이지)
+app.get('/whatsinmycart/post/:reviewerName', (req, res) => { 
     const reviewerName = req.params.reviewerName;
     
-    const detailData = reviewerDetails[reviewerName];
+    const detailData = posts[reviewerName];
   
     if (detailData) {
       res.json(detailData);
