@@ -27,29 +27,29 @@ const mainPageData = {
   ],
   reviewers: [
     {
-      profile: "https://example.com/profile1.jpg",
-      reviewer: "Reviewer1",
-      introduction: "Fashion enthusiast"
+      profile: "https://raw.githubusercontent.com/Jyoonly/my-images/profiles/fashion_p1.jpg",
+      reviewer: "StyleBySophia",
+      introduction: "Curating timeless fashion with a modern twist"
     },
     {
-      profile: "https://example.com/profile2.jpg",
-      reviewer: "Reviewer2",
-      introduction: "Tech guru"
+      profile: "https://raw.githubusercontent.com/Jyoonly/my-images/profiles/stationery_p2.jpg",
+      reviewer: "NoteWorthyNina",
+      introduction: "Showcasing elegant and functional stationery essentials"
     },
     {
-      profile: "https://example.com/profile3.jpg",
-      reviewer: "Reviewer3",
-      introduction: "Beauty expert"
+      profile: "https://raw.githubusercontent.com/bomin0216/angelhack_pics/main/electronics1.jpg",
+      reviewer: "HomeHaven",
+      introduction: "Sharing ideas for creating a cozy and comfortable living space."
     },
     {
-      profile: "https://example.com/profile4.jpg",
-      reviewer: "Reviewer4",
-      introduction: "Food lover"
+      profile: "https://raw.githubusercontent.com/bomin0216/angelhack_pics/main/livings2.jpg",
+      reviewer: "EcoNestBuilder",
+      introduction: "Shares tips on eco-friendly home decor and interior design."
     },
     {
-      profile: "https://example.com/profile5.jpg",
-      reviewer: "Reviewer5",
-      introduction: "Gadget reviewer"
+      profile: "https://raw.githubusercontent.com/Jyoonly/my-images/profiles/foods_p2.jpg",
+      reviewer: "SnackGuru",
+      introduction: "Critiquing the best in snacks and convenience foods"
     }
   ]
 };
