@@ -13,8 +13,8 @@ const mainPageData = {
   AdBanner: "https://example.com/ad-banner.jpg",  // 광고 배너 이미지 URL
   recommendations: [
     {
-      image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/main1.jpg",
-      productUrl: "https://www.coupang.com/vp/products/8054709864",
+      image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/main1.png",
+      productUrl: "https://www.coupang.com/vp/products/8054709864?vendorItemId=90815121876",
     },
     {
       image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/main2.jpg",
@@ -63,7 +63,7 @@ const beautyPageData = {
     },
     {
       image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/beauty2.jpg",
-      productUrl: "https://www.coupang.com/vp/products/5455902399",
+      productUrl: "https://www.coupang.com/vp/products/5455902399?vendorItemId=90825903220",
     },
     {
       image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/beauty3.jpg",
@@ -157,7 +157,7 @@ const stationaryPageData = {
     },
     {
       image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/stationary3.png",
-      productUrl: "https://www.coupang.com/vp/products/7396102229",
+      productUrl: "https://www.coupang.com/vp/products/7396102229?vendorItemId=87038585545",
     },
   ],
   reviewers: [
@@ -194,7 +194,7 @@ const electronicsPageData = {
   recommendations: [
     {
       image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/electronics1.jpg",
-      productUrl: "https://www.coupang.com/vp/products/8134826720",
+      productUrl: "https://www.coupang.com/vp/products/8134826720?vendorItemId=90139704536",
     },
     {
       image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/electronics2.jpg",
@@ -202,7 +202,7 @@ const electronicsPageData = {
     },
     {
       image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/electronics3.jpg",
-      productUrl: "https://www.coupang.com/vp/products/6764000977",
+      productUrl: "https://www.coupang.com/vp/products/6764000977?vendorItemId=87400869253",
     },
   ],
   reviewers: [
@@ -239,11 +239,11 @@ const livingsPageData = {
   recommendations: [
     {
       image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/livings1.jpg",
-      productUrl: "https://www.coupang.com/vp/products/7730205162",
+      productUrl: "https://www.coupang.com/vp/products/7730205162?vendorItemId=87840276019",
     },
     {
       image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/livings2.jpg",
-      productUrl: "https://www.coupang.com/vp/products/7458327454",
+      productUrl: "https://www.coupang.com/vp/products/7458327454?vendorItemId=86545351181",
     },
     {
       image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/livings3.jpg",
