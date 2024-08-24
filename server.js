@@ -12,11 +12,18 @@ app.use(express.json());
 const mainPageData = {
   AdBanner: "https://example.com/ad-banner.jpg",  // 광고 배너 이미지 URL
   recommendations: [
-    "Product 1",
-    "Product 2",
-    "Product 3",
-    "Product 4",
-    "Product 5"
+    {
+      image: "",
+      productUrl: "",
+    },
+    {
+      image: "",
+      productUrl: "",
+    },
+    {
+      image: "",
+      productUrl: "",
+    },
   ],
   reviewers: [
     {
@@ -50,11 +57,18 @@ const mainPageData = {
 const beautyPageData = {
   AdBanner: "https://example.com/ad-banner.jpg",  // 광고 배너 이미지 URL
   recommendations: [
-    "Product 1",
-    "Product 2",
-    "Product 3",
-    "Product 4",
-    "Product 5"
+    {
+      image: "",
+      productUrl: "",
+    },
+    {
+      image: "",
+      productUrl: "",
+    },
+    {
+      image: "",
+      productUrl: "",
+    },
   ],
   reviewers: [
     {
@@ -88,11 +102,18 @@ const beautyPageData = {
 const fashionPageData = {
   AdBanner: "https://example.com/ad-banner.jpg",  // 광고 배너 이미지 URL
   recommendations: [
-    "Product 1",
-    "Product 2",
-    "Product 3",
-    "Product 4",
-    "Product 5"
+    {
+      image: "",
+      productUrl: "",
+    },
+    {
+      image: "",
+      productUrl: "",
+    },
+    {
+      image: "",
+      productUrl: "",
+    },
   ],
   reviewers: [
     {
@@ -126,11 +147,18 @@ const fashionPageData = {
 const stationaryPageData = {
   AdBanner: "https://example.com/ad-banner.jpg",  // 광고 배너 이미지 URL
   recommendations: [
-    "Product 1",
-    "Product 2",
-    "Product 3",
-    "Product 4",
-    "Product 5"
+    {
+      image: "",
+      productUrl: "",
+    },
+    {
+      image: "",
+      productUrl: "",
+    },
+    {
+      image: "",
+      productUrl: "",
+    },
   ],
   reviewers: [
     {
@@ -164,11 +192,18 @@ const stationaryPageData = {
 const electronicsPageData = {
   AdBanner: "https://example.com/ad-banner.jpg",  // 광고 배너 이미지 URL
   recommendations: [
-    "Product 1",
-    "Product 2",
-    "Product 3",
-    "Product 4",
-    "Product 5"
+    {
+      image: "",
+      productUrl: "",
+    },
+    {
+      image: "",
+      productUrl: "",
+    },
+    {
+      image: "",
+      productUrl: "",
+    },
   ],
   reviewers: [
     {
@@ -202,11 +237,18 @@ const electronicsPageData = {
 const livingsPageData = {
   AdBanner: "https://example.com/ad-banner.jpg",  // 광고 배너 이미지 URL
   recommendations: [
-    "Product 1",
-    "Product 2",
-    "Product 3",
-    "Product 4",
-    "Product 5"
+    {
+      image: "",
+      productUrl: "",
+    },
+    {
+      image: "",
+      productUrl: "",
+    },
+    {
+      image: "",
+      productUrl: "",
+    },
   ],
   reviewers: [
     {
@@ -240,11 +282,18 @@ const livingsPageData = {
 const foodsPageData = {
   AdBanner: "https://example.com/ad-banner.jpg",  // 광고 배너 이미지 URL
   recommendations: [
-    "Product 1",
-    "Product 2",
-    "Product 3",
-    "Product 4",
-    "Product 5"
+    {
+      image: "",
+      productUrl: "",
+    },
+    {
+      image: "",
+      productUrl: "",
+    },
+    {
+      image: "",
+      productUrl: "",
+    },
   ],
   reviewers: [
     {
@@ -281,26 +330,84 @@ const myPageData = {
     reviewer: "MyUsername",  // 내 닉네임
     introduction: "Tech enthusiast and gadget reviewer.",  // 내 한줄 소개
     recentCart: [
-      "Cart Item 1",
-      "Cart Item 2",
-      "Cart Item 3"
+      {
+        image: "",
+        productUrl: "",
+      },
+      {
+        image: "",
+        productUrl: "",
+      },
+      {
+        image: "",
+        productUrl: "",
+      },
     ],  // 내가 최근 담은 상품
     recentBuy: [
-      "Purchased Item 1",
-      "Purchased Item 2"
+      {
+        image: "",
+        productUrl: "",
+      },
+      {
+        image: "",
+        productUrl: "",
+      },
+      {
+        image: "",
+        productUrl: "",
+      },
     ],  // 내가 최근 구매한 상품
     follows: [
       {
         profile: "https://example.com/follow-profile1.jpg",
-        carts: ["Followed Cart Item 1", "Followed Cart Item 2"]
+        carts: [
+          {
+            image: "",
+            productUrl: "",
+          },
+          {
+            image: "",
+            productUrl: "",
+          },
+          {
+            image: "",
+            productUrl: "",
+          },
+        ]
       },
       {
         profile: "https://example.com/follow-profile2.jpg",
-        carts: ["Followed Cart Item 3", "Followed Cart Item 4"]
+        carts: [
+          {
+            image: "",
+            productUrl: "",
+          },
+          {
+            image: "",
+            productUrl: "",
+          },
+          {
+            image: "",
+            productUrl: "",
+          },
+        ]
       },
       {
         profile: "https://example.com/follow-profile3.jpg",
-        carts: ["Followed Cart Item 5", "Followed Cart Item 6"]
+        carts: [
+          {
+            image: "",
+            productUrl: "",
+          },
+          {
+            image: "",
+            productUrl: "",
+          },
+          {
+            image: "",
+            productUrl: "",
+          },
+        ]
       }
     ],  // 내가 팔로우한 사람들의 카트
     posts: [
@@ -318,7 +425,28 @@ const reviewers = {
       introduction: "Loves fashion and lifestyle.",
       banner: "https://example.com/reviewer1-banner.jpg",
       posts: ["Post Title 1", "Post Title 2", "Post Title 3"],
-      carts: ["https://example.com/cart-item1.jpg", "https://example.com/cart-item2.jpg"]
+      carts: [
+          {
+            image: "",
+            productUrl: "",
+          },
+          {
+            image: "",
+            productUrl: "",
+          },
+          {
+            image: "",
+            productUrl: "",
+          },
+          {
+            image: "",
+            productUrl: "",
+          },
+          {
+            image: "",
+            productUrl: "",
+          },
+      ]
     },
     Reviewer2: {
       profile: "https://example.com/reviewer2-profile.jpg",
@@ -326,7 +454,28 @@ const reviewers = {
       introduction: "Gadget enthusiast.",
       banner: "https://example.com/reviewer2-banner.jpg",
       posts: ["Gadget Review 1", "Gadget Review 2"],
-      carts: ["https://example.com/cart-item3.jpg", "https://example.com/cart-item4.jpg"]
+      carts: [
+        {
+          image: "",
+          productUrl: "",
+        },
+        {
+          image: "",
+          productUrl: "",
+        },
+        {
+          image: "",
+          productUrl: "",
+        },
+        {
+          image: "",
+          productUrl: "",
+        },
+        {
+          image: "",
+          productUrl: "",
+        },
+    ]
     }
     // 추가 리뷰어들에 대한 데이터도 여기에 포함될 수 있음
   };
@@ -338,14 +487,48 @@ const posts = {
     reviewer: "Reviewer1",
     introduction: "Loves fashion and lifestyle.",
     video: "url",
-    carts: ["url1", "url2", "url3"],
+    carts: [
+      {
+        image: "",
+        productUrl: "",
+      },
+      {
+        image: "",
+        productUrl: "",
+      },
+      {
+        image: "",
+        productUrl: "",
+      },
+      {
+        image: "",
+        productUrl: "",
+      },
+  ],
   },
   Reviewer2: {
     profile: "https://example.com/reviewer2-profile.jpg",
     reviewer: "Reviewer2",
     introduction: "Gadget enthusiast.",
     video: "url",
-    carts: ["url1", "url2", "url3"],
+    carts: [
+      {
+        image: "",
+        productUrl: "",
+      },
+      {
+        image: "",
+        productUrl: "",
+      },
+      {
+        image: "",
+        productUrl: "",
+      },
+      {
+        image: "",
+        productUrl: "",
+      },
+  ],
   }
   // 추가 리뷰어들에 대한 데이터도 여기에 포함될 수 있음
 };
