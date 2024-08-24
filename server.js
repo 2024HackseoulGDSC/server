@@ -117,7 +117,7 @@ const fashionPageData = {
   ],
   reviewers: [
     {
-      profile: "https://raw.githubusercontent.com/Jyoonly/my-images/profiles/fashion_p1.jpg",
+      profile: "https://raw.githubusercontent.com/Jyoonly/my-images/profiles/fashion_p1.png",
       reviewer: "StyleBySophia",
       introduction: "Curating timeless fashion with a modern twist"
     },
