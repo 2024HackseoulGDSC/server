@@ -526,9 +526,9 @@ const posts = {
   ],
   },
   Reviewer2: {
-    profile: "https://example.com/reviewer2-profile.jpg",
-    reviewer: "Reviewer2",
-    introduction: "Gadget enthusiast.",
+    profile: "https://raw.githubusercontent.com/Jyoonly/my-images/main/profile1.jpg",
+    reviewer: "Makeup Eunbi",
+    introduction: "Loves fashion and lifestyle.",
     video: "https://www.youtube.com/watch?v=nLIYL661C9I",
     carts: [
       {
