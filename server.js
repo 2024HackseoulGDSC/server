@@ -438,63 +438,63 @@ const myPageData = {
 // 3페이지 
 const reviewers = {
     Reviewer1: {
-      profile: "https://example.com/reviewer1-profile.jpg",
-      reviewer: "Reviewer1",
+      profile: "https://raw.githubusercontent.com/Jyoonly/my-images/main/profile1.jpg",
+      reviewer: "Makeup Eunbi",
       introduction: "Loves fashion and lifestyle.",
-      banner: "https://example.com/reviewer1-banner.jpg",
-      posts: ["Post Title 1", "Post Title 2", "Post Title 3"],
+      banner: "https://raw.githubusercontent.com/bomin0216/angelhack_pics/main/7044093.jpg",
+      posts: ["올해의 베스트 파운데이션: 무결점 피부를 위한 추천템", "가성비 갑! 드럭스토어에서 찾은 숨은 메이크업 꿀템", "V라인 완성! 자연스럽게 얼굴을 작아보이게 하는 쉐딩 제품 추천"],
       carts: [
           {
-            image: "",
-            productUrl: "",
+            image: "https://image7.coupangcdn.com/image/0820_amir_esrgan_inf80k_batch_5_max3k/31b2/a22e7cf3b8b6014ce12f5d86926b24ead24b6bc63f69022989673fdbb0a6.png",
+            productUrl: "https://www.coupang.com/vp/products/8063592847?itemId=22666751691&vendorItemId=89704424372&sourceType=CATEGORY&categoryId=498604&isAddedCart=",
           },
           {
-            image: "",
-            productUrl: "",
+            image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/1-1.jpg",
+            productUrl: "https://www.coupang.com/vp/products/6530288800?itemId=14501277258&vendorItemId=4007901946",
           },
           {
-            image: "",
-            productUrl: "",
+            image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/1-2.jpg",
+            productUrl: "https://www.coupang.com/vp/products/8112731313?itemId=22991538234&vendorItemId=81459666781",
           },
           {
-            image: "",
-            productUrl: "",
+            image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/1-3.jpg",
+            productUrl: "https://www.coupang.com/vp/products/336407680?itemId=1073054371&vendorItemId=5565028454",
           },
           {
-            image: "",
-            productUrl: "",
+            image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/1-4.jpg",
+            productUrl: "https://www.coupang.com/vp/products/1758098717?itemId=10631974055&vendorItemId=90028130203",
           },
       ]
     },
     Reviewer2: {
-      profile: "https://example.com/reviewer2-profile.jpg",
-      reviewer: "Reviewer2",
-      introduction: "Gadget enthusiast.",
-      banner: "https://example.com/reviewer2-banner.jpg",
-      posts: ["Gadget Review 1", "Gadget Review 2"],
+      profile: "https://raw.githubusercontent.com/Jyoonly/my-images/main/profile1.jpg",
+      reviewer: "Makeup Eunbi",
+      introduction: "Loves fashion and lifestyle.",
+      banner: "https://raw.githubusercontent.com/bomin0216/angelhack_pics/main/7044093.jpg",
+      posts: ["올해의 베스트 파운데이션: 무결점 피부를 위한 추천템", "가성비 갑! 드럭스토어에서 찾은 숨은 메이크업 꿀템", "V라인 완성! 자연스럽게 얼굴을 작아보이게 하는 쉐딩 제품 추천"],
       carts: [
-        {
-          image: "",
-          productUrl: "",
-        },
-        {
-          image: "",
-          productUrl: "",
-        },
-        {
-          image: "",
-          productUrl: "",
-        },
-        {
-          image: "",
-          productUrl: "",
-        },
-        {
-          image: "",
-          productUrl: "",
-        },
-    ]
-    }
+          {
+            image: "https://image7.coupangcdn.com/image/0820_amir_esrgan_inf80k_batch_5_max3k/31b2/a22e7cf3b8b6014ce12f5d86926b24ead24b6bc63f69022989673fdbb0a6.png",
+            productUrl: "https://www.coupang.com/vp/products/8063592847?itemId=22666751691&vendorItemId=89704424372&sourceType=CATEGORY&categoryId=498604&isAddedCart=",
+          },
+          {
+            image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/1-1.jpg",
+            productUrl: "https://www.coupang.com/vp/products/6530288800?itemId=14501277258&vendorItemId=4007901946",
+          },
+          {
+            image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/1-2.jpg",
+            productUrl: "https://www.coupang.com/vp/products/8112731313?itemId=22991538234&vendorItemId=81459666781",
+          },
+          {
+            image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/1-3.jpg",
+            productUrl: "https://www.coupang.com/vp/products/336407680?itemId=1073054371&vendorItemId=5565028454",
+          },
+          {
+            image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/1-4.jpg",
+            productUrl: "https://www.coupang.com/vp/products/1758098717?itemId=10631974055&vendorItemId=90028130203",
+          },
+      ]
+    },
     // 추가 리뷰어들에 대한 데이터도 여기에 포함될 수 있음
   };
 
