@@ -8,7 +8,7 @@ app.use(cors());
 app.use(express.json());
 
 // 샘플 데이터 (DB 대신 사용할 수 있음)
-// 1. 
+// 1페이지 
 const mainPageData = {
   AdBanner: "https://example.com/ad-banner.jpg",  // 광고 배너 이미지 URL
   recommendations: [
@@ -324,7 +324,7 @@ const foodsPageData = {
   ]
 };
 
-// 2. 
+// 2페이지
 const myPageData = {
   profile: "https://raw.githubusercontent.com/bomin0216/angelhack_pics/main/mypagedata_profile.jpg",  // 내 프로필 사진
   reviewer: "bomin0216",  // 내 닉네임
@@ -434,7 +434,8 @@ const myPageData = {
     ]  // 내가 이전에 쓴 글 제목들
   };
   
-//3. 샘플 데이터 (세 번째 페이지용)
+
+// 3페이지 
 const reviewers = {
     Reviewer1: {
       profile: "https://example.com/reviewer1-profile.jpg",
@@ -497,7 +498,8 @@ const reviewers = {
     // 추가 리뷰어들에 대한 데이터도 여기에 포함될 수 있음
   };
 
-//4. 샘플 데이터 (네 번째 페이지용)
+
+// 4페이지
 const posts = {
   Reviewer1: {
     profile: "https://raw.githubusercontent.com/Jyoonly/my-images/main/profile1.jpg",
