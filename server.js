@@ -208,28 +208,28 @@ const electronicsPageData = {
   reviewers: [
     {
       profile: "https://raw.githubusercontent.com/bomin0216/angelhack_pics/main/electronics1.jpg",
-      reviewer: "Reviewer1",
-      introduction: "Fashion enthusiast"
+      reviewer: "HomeHaven",
+      introduction: "Sharing ideas for creating a cozy and comfortable living space."
     },
     {
       profile: "https://raw.githubusercontent.com/bomin0216/angelhack_pics/main/electronics2.jpg",
-      reviewer: "Reviewer2",
-      introduction: "Tech guru"
+      reviewer: "LivingWellness",
+      introduction: "Focused on enhancing well-being through mindful living and home practices."
     },
     {
-      profile: "https://example.com/profile3.jpg",
-      reviewer: "Reviewer3",
-      introduction: "Beauty expert"
+      profile: "https://raw.githubusercontent.com/bomin0216/angelhack_pics/main/electronics4.jpg",
+      reviewer: "SpaceSanctuary",
+      introduction: "Exploring ways to turn any space into a personal sanctuary."
     },
     {
-      profile: "https://example.com/profile4.jpg",
-      reviewer: "Reviewer4",
-      introduction: "Food lover"
+      profile: "https://raw.githubusercontent.com/bomin0216/angelhack_pics/main/electronics5.jpg",
+      reviewer: "CozyNestLife",
+      introduction: "Passionate about creating warm and inviting homes that nurture the soul."
     },
     {
-      profile: "https://example.com/profile5.jpg",
-      reviewer: "Reviewer5",
-      introduction: "Gadget reviewer"
+      profile: "https://raw.githubusercontent.com/bomin0216/angelhack_pics/main/electronics6.jpg",
+      reviewer: "EcoLivingEssentials",
+      introduction: "Advocating for a sustainable lifestyle through eco-friendly living choices."
     }
   ]
 };
