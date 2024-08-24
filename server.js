@@ -72,29 +72,29 @@ const beautyPageData = {
   ],
   reviewers: [
     {
-      profile: "https://example.com/profile1.jpg",
-      reviewer: "Reviewer1",
-      introduction: "Fashion enthusiast"
+      profile: "https://raw.githubusercontent.com/Jyoonly/my-images/profiles/beauty_p1.jpg",
+      reviewer: "GlamByGrace",
+      introduction: "Expert in transforming everyday looks into glamourous styles."
     },
     {
-      profile: "https://example.com/profile2.jpg",
-      reviewer: "Reviewer2",
-      introduction: "Tech guru"
+      profile: "https://raw.githubusercontent.com/Jyoonly/my-images/profiles/beauty_p2.jpg",
+      reviewer: "LuxeLuna",
+      introduction: "Passionate about luxury beauty and skincare."
     },
     {
-      profile: "https://example.com/profile3.jpg",
-      reviewer: "Reviewer3",
-      introduction: "Beauty expert"
+      profile: "https://raw.githubusercontent.com/Jyoonly/my-images/profiles/beauty_p3.jpg",
+      reviewer: "RosyRadiance",
+      introduction: "Bringing you the secrets to a naturally glowing complexion"
     },
     {
-      profile: "https://example.com/profile4.jpg",
-      reviewer: "Reviewer4",
-      introduction: "Food lover"
+      profile: "https://raw.githubusercontent.com/Jyoonly/my-images/profiles/beauty_p4.jpg",
+      reviewer: "VelvetVibes",
+      introduction: "Specialist in soft, elegant makeup looks."
     },
     {
-      profile: "https://example.com/profile5.jpg",
-      reviewer: "Reviewer5",
-      introduction: "Gadget reviewer"
+      profile: "https://raw.githubusercontent.com/Jyoonly/my-images/profiles/beauty_p5.jpg",
+      reviewer: "ChicSculpt",
+      introduction: "Crafting flawless contours with a chic touch."
     }
   ]
 };
@@ -117,29 +117,29 @@ const fashionPageData = {
   ],
   reviewers: [
     {
-      profile: "https://example.com/profile1.jpg",
-      reviewer: "Reviewer1",
-      introduction: "Fashion enthusiast"
+      profile: "https://raw.githubusercontent.com/Jyoonly/my-images/profiles/fashion_p1.jpg",
+      reviewer: "StyleBySophia",
+      introduction: "Curating timeless fashion with a modern twist"
     },
     {
-      profile: "https://example.com/profile2.jpg",
-      reviewer: "Reviewer2",
-      introduction: "Tech guru"
+      profile: "https://raw.githubusercontent.com/Jyoonly/my-images/profiles/fashion_p2.jpg",
+      reviewer: "UrbanGent",
+      introduction: "Mastering the art of contemporary men's fashion"
     },
     {
-      profile: "https://example.com/profile3.jpg",
-      reviewer: "Reviewer3",
-      introduction: "Beauty expert"
+      profile: "https://raw.githubusercontent.com/Jyoonly/my-images/profiles/fashion_p3.jpg",
+      reviewer: "TrendMaven",
+      introduction: "Your guide to the latest and greatest in global fashion"
     },
     {
-      profile: "https://example.com/profile4.jpg",
-      reviewer: "Reviewer4",
-      introduction: "Food lover"
+      profile: "https://raw.githubusercontent.com/Jyoonly/my-images/profiles/fashion_p4.jpg",
+      reviewer: "ChicInCharlotte",
+      introduction: "Effortlessly blending elegance with everyday wear"
     },
     {
-      profile: "https://example.com/profile5.jpg",
-      reviewer: "Reviewer5",
-      introduction: "Gadget reviewer"
+      profile: "https://raw.githubusercontent.com/Jyoonly/my-images/profiles/fashion_p5.jpg",
+      reviewer: "DapperDylan",
+      introduction: "Elevating street styles with a fresh perspective"
     }
   ]
 };
@@ -162,29 +162,29 @@ const stationaryPageData = {
   ],
   reviewers: [
     {
-      profile: "https://example.com/profile1.jpg",
-      reviewer: "Reviewer1",
-      introduction: "Fashion enthusiast"
+      profile: "https://raw.githubusercontent.com/Jyoonly/my-images/profiles/stationery_p1.jpg",
+      reviewer: "PaperByPaige",
+      introduction: "Discovering the finest in stationery for every creative mind"
     },
     {
-      profile: "https://example.com/profile2.jpg",
-      reviewer: "Reviewer2",
-      introduction: "Tech guru"
+      profile: "https://raw.githubusercontent.com/Jyoonly/my-images/profiles/stationery_p2.jpg",
+      reviewer: "NoteWorthyNina",
+      introduction: "Showcasing elegant and functional stationery essentials"
     },
     {
-      profile: "https://example.com/profile3.jpg",
-      reviewer: "Reviewer3",
-      introduction: "Beauty expert"
+      profile: "https://raw.githubusercontent.com/Jyoonly/my-images/profiles/stationery_p3.jpg",
+      reviewer: "InkAndImpressions",
+      introduction: "Exploring the art of beautiful writing and stationery"
     },
     {
-      profile: "https://example.com/profile4.jpg",
-      reviewer: "Reviewer4",
-      introduction: "Food lover"
+      profile: "https://raw.githubusercontent.com/Jyoonly/my-images/profiles/stationery_p4.jpg",
+      reviewer: "StationerySteve",
+      introduction: "Your go-to for funny stationery"
     },
     {
-      profile: "https://example.com/profile5.jpg",
-      reviewer: "Reviewer5",
-      introduction: "Gadget reviewer"
+      profile: "https://raw.githubusercontent.com/Jyoonly/my-images/profiles/stationery_p5.jpg",
+      reviewer: "PenmanshipPaul",
+      introduction: "Reviewing premium stationery for the discerning writer"
     }
   ]
 };
@@ -297,29 +297,29 @@ const foodsPageData = {
   ],
   reviewers: [
     {
-      profile: "https://example.com/profile1.jpg",
-      reviewer: "Reviewer1",
-      introduction: "Fashion enthusiast"
+      profile: "https://raw.githubusercontent.com/Jyoonly/my-images/profiles/foods_p1.jpg",
+      reviewer: "FlavorFanatic",
+      introduction: "Tasting and reviewing diverse gourmet and everyday foods"
     },
     {
-      profile: "https://example.com/profile2.jpg",
-      reviewer: "Reviewer2",
-      introduction: "Tech guru"
+      profile: "https://raw.githubusercontent.com/Jyoonly/my-images/profiles/foods_p2.jpg",
+      reviewer: "SnackGuru",
+      introduction: "Critiquing the best in snacks and convenience foods"
     },
     {
-      profile: "https://example.com/profile3.jpg",
-      reviewer: "Reviewer3",
-      introduction: "Beauty expert"
+      profile: "https://raw.githubusercontent.com/Jyoonly/my-images/profiles/foods_p3.jpg",
+      reviewer: "SweetToothSavant",
+      introduction: "Exploring sweet treats and desserts"
     },
     {
-      profile: "https://example.com/profile4.jpg",
-      reviewer: "Reviewer4",
-      introduction: "Food lover"
+      profile: "https://raw.githubusercontent.com/Jyoonly/my-images/profiles/foods_p4.jpg",
+      reviewer: "SavorySampler",
+      introduction: "Analyzing savory snacks and meals"
     },
     {
-      profile: "https://example.com/profile5.jpg",
-      reviewer: "Reviewer5",
-      introduction: "Gadget reviewer"
+      profile: "https://raw.githubusercontent.com/Jyoonly/my-images/profiles/foods_p5.jpg",
+      reviewer: "HealthyEatsExpert",
+      introduction: "Reviewing nutritious and health-conscious foods"
     }
   ]
 };
