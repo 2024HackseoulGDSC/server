@@ -190,7 +190,7 @@ const stationaryPageData = {
 };
 
 const electronicsPageData = {
-  AdBanner: "https://example.com/ad-banner.jpg",  // 광고 배너 이미지 URL
+  AdBanner: "https://raw.githubusercontent.com/bomin0216/angelhack_pics/main/electronicsBanner.jpg",  // 광고 배너 이미지 URL
   recommendations: [
     {
       image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/electronics1.jpg",
@@ -207,12 +207,12 @@ const electronicsPageData = {
   ],
   reviewers: [
     {
-      profile: "https://example.com/profile1.jpg",
+      profile: "https://raw.githubusercontent.com/bomin0216/angelhack_pics/main/electronics1.jpg",
       reviewer: "Reviewer1",
       introduction: "Fashion enthusiast"
     },
     {
-      profile: "https://example.com/profile2.jpg",
+      profile: "https://raw.githubusercontent.com/bomin0216/angelhack_pics/main/electronics2.jpg",
       reviewer: "Reviewer2",
       introduction: "Tech guru"
     },
@@ -235,7 +235,7 @@ const electronicsPageData = {
 };
 
 const livingsPageData = {
-  AdBanner: "https://example.com/ad-banner.jpg",  // 광고 배너 이미지 URL
+  AdBanner: "https://raw.githubusercontent.com/bomin0216/angelhack_pics/main/livingsBanner.jpg",  // 광고 배너 이미지 URL
   recommendations: [
     {
       image: "https://raw.githubusercontent.com/Jyoonly/my-images/main/livings1.jpg",
@@ -252,29 +252,29 @@ const livingsPageData = {
   ],
   reviewers: [
     {
-      profile: "https://example.com/profile1.jpg",
-      reviewer: "Reviewer1",
-      introduction: "Fashion enthusiast"
+      profile: "https://raw.githubusercontent.com/bomin0216/angelhack_pics/main/livings1.jpg",
+      reviewer: "GreenLivingGuru",
+      introduction: "Focused on living in harmony with nature through sustainable practices."
     },
     {
-      profile: "https://example.com/profile2.jpg",
-      reviewer: "Reviewer2",
-      introduction: "Tech guru"
+      profile: "https://raw.githubusercontent.com/bomin0216/angelhack_pics/main/livings2.jpg",
+      reviewer: "EcoNestBuilder",
+      introduction: "Shares tips on eco-friendly home decor and interior design."
     },
     {
-      profile: "https://example.com/profile3.jpg",
-      reviewer: "Reviewer3",
-      introduction: "Beauty expert"
+      profile: "https://raw.githubusercontent.com/bomin0216/angelhack_pics/main/livings3.jpg",
+      reviewer: "ConsciousSpaces",
+      introduction: "Promote a minimalist and eco-conscious lifestyle to enhance quality of life."
     },
     {
-      profile: "https://example.com/profile4.jpg",
-      reviewer: "Reviewer4",
-      introduction: "Food lover"
+      profile: "https://raw.githubusercontent.com/bomin0216/angelhack_pics/main/livings4.jpg",
+      reviewer: "UrbanHomesteader",
+      introduction: "Practice sustainable living and self-sufficiency in an urban environment."
     },
     {
-      profile: "https://example.com/profile5.jpg",
-      reviewer: "Reviewer5",
-      introduction: "Gadget reviewer"
+      profile: "https://raw.githubusercontent.com/bomin0216/angelhack_pics/main/livings5.jpg",
+      reviewer: "MindfulDwelling",
+      introduction: "Dedicated to improving life quality through small changes at home."
     }
   ]
 };
